@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, HTML/CSS**
 
-- 📫 How to reach me **gabrielbarbieri430@gmai.com**
+- 📫 How to reach me **gabrielbarbieri430@gmail.com**
 
 - ⚡ Fun fact **I really like sports, I could play football all day long.**
 
