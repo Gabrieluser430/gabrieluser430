@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **the ableton project**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Javascript, HTML/CSS**
 
